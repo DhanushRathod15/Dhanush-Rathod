@@ -43,12 +43,6 @@
 - 💼 [LinkedIn](https://linkedin.com/in/dhanushrathod)
 - 📧 Email: dhanushrathod15@gmail.com
 
----
-
-### 📊 **GitHub Stats:**
-
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhanushRathod&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushRathod&layout=compact&theme=radical)
 
 ---
 
