@@ -7,13 +7,6 @@
 
 ---
 
-### 🌱 **What I'm Learning:**
-- Advanced **Machine Learning Algorithms** and **Data Preprocessing** techniques.
-- Tools like **Tableau**, **Power BI**, and **PySpark** for effective data visualization and analytics.
-- **Cloud Platforms** (AWS, Azure) for scalable project deployment.
-
----
-
 ### 🛠️ **Skills:**
 
 #### **Programming & Scripting:**
