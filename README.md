@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dhanush Rathod!
 
 ### 🚀 About Me:
-- 🎓 **Mechanical Engineering Student** at NIT Kurukshetra (Class of 2025).
+- 🎓 **Mechanical Engineering Student** at NIT Kurukshetra.
 - 🌟 Transitioning to **Data Science**, with a focus on solving real-world problems using AI and Machine Learning.
 - 📊 Passionate about extracting actionable insights from data and creating scalable solutions.
 
@@ -12,6 +12,37 @@
 - Tools like **Tableau**, **Power BI**, and **PySpark** for effective data visualization and analytics.
 - **Cloud Platforms** (AWS, Azure) for scalable project deployment.
 
+---
+
+### 🛠️ **Skills:**
+
+#### **Programming & Scripting:**
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch)
+- SQL
+- Shell Scripting
+
+#### **Data Science & Machine Learning:**
+- Data Preprocessing and Feature Engineering
+- Model Building and Evaluation (Regression, Classification, Clustering)
+- Deep Learning (CNNs, RNNs)
+- Natural Language Processing (NLP)
+
+#### **Data Visualization:**
+- Tableau
+- Power BI
+- Matplotlib & Seaborn
+
+#### **Big Data & Cloud Technologies:**
+- PySpark
+- Apache Airflow
+- AWS (S3, EC2, Lambda)
+- Azure (CI/CD Pipelines)
+
+#### **DevOps & Tools:**
+- Docker & Kubernetes
+- Git, GitHub, GitHub Actions
+- CI/CD Pipeline Integration
+  
 ---
 
 ### 🧑‍💻 **My Projects:**
@@ -30,21 +61,10 @@
 
 ---
 
-### 🛠️ **Skills:**
-- **Programming**: Python (Pandas, NumPy, Scikit-learn), SQL
-- **Data Visualization**: Tableau, Power BI
-- **Big Data**: PySpark, Apache Airflow
-- **Cloud Platforms**: AWS, Azure
-- **Version Control**: Git, GitHub
-
----
-
 ### 📫 **Connect with Me:**
 - 💼 [LinkedIn](https://linkedin.com/in/dhanushrathod)
 - 📧 Email: dhanushrathod15@gmail.com
 
-
----
 
 ### ✨ **Let's Collaborate!**
 Looking to collaborate on **data science projects**, **machine learning solutions**, or **innovative analytics tools**. Let’s build something impactful together!
